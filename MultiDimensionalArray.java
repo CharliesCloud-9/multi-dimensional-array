@@ -22,7 +22,7 @@ public class MultiDimensionalArray {
 		    
 		    System.out.println();				//this statement is part of the y-axis action
 		}
-											// http://www.mathsteacher.com.au/year8/ch15_graphs/05_hor/ver.htm   to help understand graphical x and y axis
+											//graphical x and y axis
 		
 	}
 	 
